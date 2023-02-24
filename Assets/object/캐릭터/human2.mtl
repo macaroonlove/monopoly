@@ -1,0 +1,130 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl Color_003
+Ka 0.000000 0.000000 0.000000
+Kd 0.745098 0.501961 0.294118
+Ks 0.330000 0.330000 0.330000
+map_Kd human2/Color_003.png
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Vegetation_Juniper2
+Ka 0.000000 0.000000 0.000000
+Kd 0.949020 0.937255 0.898039
+Ks 0.330000 0.330000 0.330000
+map_Kd human2/Vegetation_Juniper2.jpg
+
+newmtl Blinds_Cellular_White
+Ka 0.000000 0.000000 0.000000
+Kd 0.850980 0.819608 0.784314
+Ks 0.330000 0.330000 0.330000
+map_Kd human2/Blinds_Cellular_White.jpg
+
+newmtl Color_000
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Color_B25
+Ka 0.000000 0.000000 0.000000
+Kd 0.200000 0.168627 0.156863
+Ks 0.330000 0.330000 0.330000
+
+newmtl _Vegetation_Bark_Ponderosa_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.407843 0.298039 0.258824
+Ks 0.330000 0.330000 0.330000
+map_Kd human2/_Vegetation_Bark_Ponderosa_1.jpg
+
+newmtl _Metal_Rough_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.819608 0.713725 0.501961
+Ks 0.330000 0.330000 0.330000
+map_Kd human2/_Metal_Rough_1.jpg
+
+newmtl Metal_Aluminum_Anodized
+Ka 0.000000 0.000000 0.000000
+Kd 0.847059 0.827451 0.827451
+Ks 0.330000 0.330000 0.330000
+map_Kd human2/Metal_Aluminum_Anodized.jpg
+
+newmtl Brick_Basket_Two
+Ka 0.000000 0.000000 0.000000
+Kd 0.121569 0.125490 0.137255
+Ks 0.330000 0.330000 0.330000
+map_Kd human2/Brick_Basket_Two.jpg
+
+newmtl Stone_Brushed_Khaki
+Ka 0.000000 0.000000 0.000000
+Kd 0.317647 0.258824 0.211765
+Ks 0.330000 0.330000 0.330000
+map_Kd human2/Stone_Brushed_Khaki.jpg
+
+newmtl M_96_96_96
+Ka 0.000000 0.000000 0.000000
+Kd 0.376471 0.376471 0.376471
+Ks 0.330000 0.330000 0.330000
+
+newmtl M_96_96_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.666667 0.631373 0.564706
+Ks 0.330000 0.330000 0.330000
+
+newmtl _Blinds_Weave_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.549020 0.466667 0.294118
+Ks 0.330000 0.330000 0.330000
+map_Kd human2/_Blinds_Weave_1.jpg
+
+newmtl Wood_Lumber_ButtJoined
+Ka 0.000000 0.000000 0.000000
+Kd 0.258824 0.160784 0.133333
+Ks 0.330000 0.330000 0.330000
+
+newmtl _Blinds_Weave_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.549020 0.466667 0.294118
+Ks 0.330000 0.330000 0.330000
+map_Kd human2/_Blinds_Weave_2.jpg
+
+newmtl _Blinds_Wood_Bamboo_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.513725 0.368627 0.235294
+Ks 0.330000 0.330000 0.330000
+map_Kd human2/_Blinds_Wood_Bamboo_1.jpg
+
+newmtl Color_D09
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.678431 0.521569
+Ks 0.330000 0.330000 0.330000
+
+newmtl Metal_Corrogated_Shiny
+Ka 0.000000 0.000000 0.000000
+Kd 0.168627 0.113725 0.098039
+Ks 0.330000 0.330000 0.330000
+map_Kd human2/Metal_Corrogated_Shiny.jpg
+
+newmtl Vegetation_Blur3
+Ka 0.000000 0.000000 0.000000
+Kd 0.109804 0.039216 0.019608
+Ks 0.330000 0.330000 0.330000
+d 0.770000
+map_Kd human2/Vegetation_Blur3.jpg
+
+newmtl Metal_Embossed
+Ka 0.000000 0.000000 0.000000
+Kd 0.729412 0.729412 0.729412
+Ks 0.330000 0.330000 0.330000
+map_Kd human2/Metal_Embossed.jpg
+
+newmtl Metal_Panel
+Ka 0.000000 0.000000 0.000000
+Kd 0.439216 0.427451 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd human2/Metal_Panel.jpg
+

@@ -1,0 +1,82 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl Material3_material
+Ka 0.000000 0.000000 0.000000
+Kd 0.635294 0.517647 0.388235
+Ks 0.330000 0.330000 0.330000
+map_Kd r7/Material3_material.png
+
+newmtl Material2_material
+Ka 0.000000 0.000000 0.000000
+Kd 0.509804 0.105882 0.192157
+Ks 0.330000 0.330000 0.330000
+map_Kd r7/Material2_material.png
+
+newmtl Material4_material_001
+Ka 0.000000 0.000000 0.000000
+Kd 0.498039 0.215686 0.137255
+Ks 0.330000 0.330000 0.330000
+map_Kd r7/Material4_material_001.png
+
+newmtl Material1_material_001
+Ka 0.000000 0.000000 0.000000
+Kd 0.854902 0.643137 0.274510
+Ks 0.330000 0.330000 0.330000
+map_Kd r7/Material1_material_001.png
+
+newmtl Material13_material_001
+Ka 0.000000 0.000000 0.000000
+Kd 0.615686 0.231373 0.200000
+Ks 0.330000 0.330000 0.330000
+map_Kd r7/Material13_material_001.png
+
+newmtl Material11_material
+Ka 0.000000 0.000000 0.000000
+Kd 0.588235 0.380392 0.254902
+Ks 0.330000 0.330000 0.330000
+map_Kd r7/Material11_material.png
+
+newmtl Material12_material_001
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.294118 0.145098
+Ks 0.330000 0.330000 0.330000
+map_Kd r7/Material12_material_001.png
+
+newmtl Material5_material_001
+Ka 0.000000 0.000000 0.000000
+Kd 0.513725 0.282353 0.282353
+Ks 0.330000 0.330000 0.330000
+map_Kd r7/Material5_material_001.png
+
+newmtl Material9_material_001
+Ka 0.000000 0.000000 0.000000
+Kd 0.133333 0.101961 0.101961
+Ks 0.330000 0.330000 0.330000
+map_Kd r7/Material9_material_001.png
+
+newmtl Material8_material_001
+Ka 0.000000 0.000000 0.000000
+Kd 0.619608 0.611765 0.588235
+Ks 0.330000 0.330000 0.330000
+map_Kd r7/Material8_material_001.png
+
+newmtl Material_018
+Ka 0.000000 0.000000 0.000000
+Kd 0.619608 0.611765 0.588235
+Ks 0.330000 0.330000 0.330000
+map_Kd r7/Material_018.png
+
+newmtl Material7_material_001
+Ka 0.000000 0.000000 0.000000
+Kd 0.803922 0.623529 0.513725
+Ks 0.330000 0.330000 0.330000
+map_Kd r7/Material7_material_001.png
+
+newmtl Material6_material_001
+Ka 0.000000 0.000000 0.000000
+Kd 0.858824 0.525490 0.521569
+Ks 0.330000 0.330000 0.330000
+map_Kd r7/Material6_material_001.png
+
